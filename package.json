@@ -1,0 +1,23 @@
+{
+  "name": "paddle-ocr-onnx-models",
+  "version": "0.0.0",
+  "description": "PaddleOCR ONNX Models",
+  "files": [
+    "models"
+  ],
+  "author": "ocavue <ocavue@gmail.com>",
+  "homepage": "https://github.com/ocavue#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ocavue/paddle-ocr-onnx-models.git"
+  },
+  "bugs": "https://github.com/ocavue/paddle-ocr-onnx-models/issues",
+  "keywords": [
+    "ocr",
+    "PaddleOCR",
+    "paddle-ocr",
+    "onnx",
+    "onnxruntime"
+  ],
+  "sideEffects": false
+}
